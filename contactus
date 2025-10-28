@@ -1,0 +1,56 @@
+<section class="contact-us container">
+ <div class="contact-us-social">
+  <div class="social-holder">
+    <svg class="icon  socil-icon ">
+  <use href="/images/svg-spriteisocialicon.svg#icons8-telegram"></use>
+</svg><svg class="icon socil-icon">
+  <use href="/images/svg-spriteisocialicon.svg#icons8-linkedin"></use>
+</svg><svg class="icon ">
+  <use href="/images/svg-spriteisocialicon.svg#icons8-facebook"></use>
+</svg>
+  </div>
+ </div>
+
+ <!--address-->
+<div class="contact-us-icons">
+    <div class="icon-holder">
+      <span class="icon-holder-label">info@fronthooks.ir</span>
+        <span class="icon-container">
+          <svg class="icon">
+            <use href="/images/svg-sprite.svg#Message"></use>
+        </svg>
+    </div>
+    <!--2-->
+    <div class="icon-holder">
+      <span class="icon-holder-label">+989182451234</span>
+        <span class="icon-container">
+          <svg class="icon">
+            <use href="/images/svg-sprite.svg#Calling"></use>
+        </svg>
+        </span>
+    </div>
+    <!--3-->
+
+    <div class="icon-holder">
+       <span class="icon-holder-label">ایران-خوزستان-اندیمشک-خیابان نوید</span>
+        <span class="icon-container">
+          <svg class="icon">
+            <use href="/images/svg-sprite.svg#Location 2"></use>
+        </svg>
+    </div>
+ </div>
+ <div class="contact-us-map">
+  <img class="map-img" src="/images/@ map screen.png" alt="img-map">
+ </div>
+ <div class="contact-us-form">
+  <div class="form-wrapper">
+    <h3 class="form-title">نظرات شما</h3>
+    <form class="myform" action="">
+      <input class="input " type="text" placeholder="نام و نام خانوادگی">
+      <input class="input " type="email" placeholder="ایمیل خود را وارد کنید" dir="ltr">
+      <textarea  class=" input-message" rows="" cols=""></textarea> 
+    </form>
+    <button class=" form-btn">ارسال</button>
+  </div>
+ </div>
+  </section>

@@ -1,0 +1,77 @@
+ <footer class="main-footer">
+    <div class="container footer">
+      <div class="footer-item first-item">
+        <div class="main-title-icon">
+        <h1 class="bold-title">
+          تپسی
+        </h1>
+        <svg class="icon">
+           <use href="/images/svg-spritee.svg#cbi--tesla-car"></use>
+             </svg>
+            </div>
+            <h3 class="footer-secend-title">اپلیکیشن درخواست خودرو و پیک</h3>
+            <p class="footer-text">تمام حقوق مادی و معنووی این وبسایت<br>متعلق به تپسی است.</p>
+            <p class="social-text">تپسی در شبکات اجتماعی</p>
+            <div class="socil-media-icons">
+             <svg class="icon">
+               <use href="/icon/svg-spriteee.svg#Platform=WhatsApp, Color=Negative"></use>
+                </svg>
+              <svg class="icon">
+               <use href="/icon/svg-spriteee.svg#Platform=Google, Color=Negative"></use>
+                </svg>
+              <svg class="icon">
+               <use href="/icon/svg.sprit.svg#Vector (1)"></use>
+                </svg>
+                 <svg class="icon">
+               <use href="/icon/svg-spriteee.svg#Platform=Instagram, Color=Negative"></use>
+                </svg>
+            </div>
+      </div>
+    <div class="footer-item" >
+      <h6>تپسی</h6>
+      <a href="#">وبلاگ تپسی</a>
+      <a href="#">فرصت شغلی</a>
+      <a href="#">تماس با ما</a>
+      <a href="#">لوگو و هویت سازمانی</a>
+    </div>
+    <div class="footer-item" >
+       <h6>تپسی</h6>
+      <a href="#">وبلاگ تپسی</a>
+      <a href="#">فرصت شغلی</a>
+      <a href="#">تماس با ما</a>
+      <a href="#">لوگو و هویت سازمانی</a>
+    </div>
+    <div class="footer-item">
+       <h6>رانندگان</h6>
+      <a href="#">ثبت نام راننده تاکسی</a>
+      <a href="#">دانلود اپ سفیر</a>
+      <a href="#">پرسش های متداول سفیران</a>
+      <a href="#">باشگاه مشتریان</a>
+    </div>
+    <div class="footer-item" >
+      <h6>مسافران</h6>
+      <a href="#">دانلود اپ مسافر</a>
+      <a href="#">نسخه وب تپسی</a>
+      <a href="#">پرسش های متداول مسافران</a>
+      <a href="#">باشگاه مشتریان</a>
+    </div>
+    <div class="footer-item" >
+      <h6>کسب وکارها</h6>
+      <a href="#">پنل سازمانی تپسی</a>
+      <a href="#">خرید کد اعتبار و تخفیف</a>
+      <a href="#">API دریافت</a>
+      <a href="#">شرایط و قوانین</a>
+    </div>
+    <div class="footer-item enemad" >
+      <div class="footer-enemad">
+        <img src="/images/etehadiye.png" alt="">
+      </div>
+       <div class="footer-enemad">
+        <img src="/images/logo.png" alt="">
+      </div>
+       <div class="footer-enemad">
+        <img src="/images/logo (1).png" alt="">
+      </div>
+    </div>
+    </div>
+  </footer>
