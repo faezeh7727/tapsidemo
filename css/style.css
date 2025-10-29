@@ -968,7 +968,6 @@ position: relative;
 .awards-content{
   display:grid;
   grid-template-columns: 1fr;
-  place-items: center;
   padding: 1rem;
   margin-bottom: 5rem;
 }
@@ -995,6 +994,18 @@ position: relative;
   object-fit: cover;
   display: block;
 }
+.awards-item-icon{
+  color: #ffffff;
+  margin: 1rem;
+  font-size: 1.8rem;
+}
+.like:hover{
+  color: #c30707;
+}
+.award-item-number{
+font-size: 1.6rem;
+color: #c30707;
+}
 .awrads-title{
   display: flex;
   justify-content: center;
@@ -1006,11 +1017,20 @@ position: relative;
     margin-bottom: 2rem;
   }
 
+
 .badge-awars{
 padding: 0.5rem 1rem;
 font-size: 2rem;
 margin-left: 1rem;
   }
+
+.awards-items-footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
 
 .detail-item-1{
   padding: 1rem;
