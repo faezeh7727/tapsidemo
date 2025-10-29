@@ -181,10 +181,14 @@ h5{
 }
 
 .list-tick .list-item {
-  background: url(/icon/check\ 1.png) no-repeat;
   background-position: right center;
   padding-right: 4rem;
   margin-bottom: 2.8rem;
+}
+.card-icon{
+  margin: 1rem;
+  font-size: 1.8rem;
+  color: #1fb522;
 }
 
 /*section block palan*/
