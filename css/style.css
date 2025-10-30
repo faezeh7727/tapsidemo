@@ -1136,7 +1136,7 @@ transform: rotate(-180deg);
   color: #f46426;
 }
 .content-icon{
-  font-size: 4rem;
+  font-size: 4rem!important;
 }
 .content-title{
   font-weight: 800;
