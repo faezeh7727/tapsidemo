@@ -1070,8 +1070,9 @@ border-radius: 50%;
 margin-left: -20px;
 cursor: pointer;
 transition: all 0.3s ease-in-out;
+position: relative;
 }
-.avatar:hover:not(:last-of-type){
+.avatar:hover{
   transform: translate(10px);
 }
 .avatar img{
@@ -1088,6 +1089,7 @@ transition: all 0.3s ease-in-out;
   align-items: center;
   justify-content: center;
   border: 2px solid #c30707;
+  margin-left: 1rem;
 }
 /*accordion section*/
 
