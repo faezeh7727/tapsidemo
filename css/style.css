@@ -1090,6 +1090,8 @@ position: relative;
   justify-content: center;
   border: 2px solid #c30707;
   margin-left: 1rem;
+  position: relative;
+  cursor: pointer;
 }
 /*accordion section*/
 
